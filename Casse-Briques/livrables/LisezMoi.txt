@@ -1,0 +1,6 @@
+Version 2.05
+
+Pour lancer : 
+ java -Djava.library.path=../lib/natives -jar Sources.jar
+ou
+ ./start.sh

@@ -1,0 +1,9 @@
+= Remarques sur le manuel utilisateur
+
+
+* 2.1.1 Est-ce que chaque joueur est "responsable" de sa propre balle et il perd sa vie seulement si sa balle traverse son bord (et donc elle rebondi sur les bords des autres joueurs), ou toutes les balles sont en jeu pour tous les joueur? Dans le deuxième cas il faut p-e faire attention à la jouabilité car ça peut facilement devenir difficile jouer (à mon avis).
+
+* Essayez d'expliciter aussi les interfaces prévues (à l'aide des mock-ups) pour la création de cartes, pour montrer l'interfaces et les outils qui sont à disposition de l'utilisateur pour creer la carte (liste des types des briques etc..)
+
+* Merci d'indiquer le numéro de groupe sur la page de garde.
+

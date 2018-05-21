@@ -1,0 +1,18 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Objectif G\IeC {\'e}n\IeC {\'e}ral du projet}{1}
+\contentsline {section}{\numberline {2}Principe du jeu}{1}
+\contentsline {subsection}{\numberline {2.1}Principe de base}{1}
+\contentsline {subsection}{\numberline {2.2}Mode multijoueur}{1}
+\contentsline {subsection}{\numberline {2.3}Diff\IeC {\'e}rentes fa\IeC {\c c}ons de jouer \IeC {\`a} plusieurs}{3}
+\contentsline {section}{\numberline {3}Gestion des balles et jouabilit\IeC {\'e}}{3}
+\contentsline {section}{\numberline {4}Types de briques}{3}
+\contentsline {section}{\numberline {5}Bonus/Malus}{4}
+\contentsline {section}{\numberline {6}Cartes de jeu}{4}
+\contentsline {subsection}{\numberline {6.1}Cr\IeC {\'e}ation de Carte}{4}
+\contentsline {subsection}{\numberline {6.2}Cartes pr\IeC {\'e}d\IeC {\'e}finies, niveaux de difficult\IeC {\'e}s et g\IeC {\'e}n\IeC {\'e}ration proc\IeC {\'e}durale}{6}
+\contentsline {section}{\numberline {7}Gestion des scores}{6}
+\contentsline {subsection}{\numberline {7.1}Calcul du score}{6}
+\contentsline {subsection}{\numberline {7.2}Classement des scores}{7}
+\contentsline {section}{\numberline {8}Menu}{8}
+\contentsline {section}{\numberline {9}Gestion des profils}{8}
+\contentsline {section}{\numberline {10}Supports}{9}
